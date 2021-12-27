@@ -6,3 +6,4 @@ InputBox, hnum
 
 Random, num, %lnum%, %hnum%
 Msgbox, you got %num%
+return
